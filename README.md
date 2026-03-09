@@ -23,6 +23,3 @@ Some facts about me:
 Feel free to connect with me on LinkedIn or explore my projects to learn more about my work!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1iqW8ql9iaIW1qMeqk-XyjDtS3vjd7P1z/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=karinabautista alt=karinabautista /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=karinabautista&show_icons=true&include_all_commits=true)](https://github.com/karinabautista/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinabautista&layout=compact)](https://github.com/karinabautista/github-readme-stats)
