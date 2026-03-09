@@ -15,10 +15,10 @@ In this project, I conducted a visual analysis of profit performance, return rat
 My professional background working with small businesses has given me a unique perspective on how data directly impacts real business decisions. I enjoy using analytics to uncover opportunities for improving internal operations, increasing efficiency, and helping teams make more confident decisions with data.
 
 Some facts about me:
-• I recently got back into dancing, which was a big passion of mine growing up.
-• I love creative hobbies like scrapbooking and journaling.
-• I’m always excited to keep learning new data analysis techniques and tools.
-• My goal is to continue growing as a data analyst and help organizations make meaningful, data-driven improvements.
+- I recently got back into dancing, which was a big passion of mine growing up.
+- I love creative hobbies like scrapbooking and journaling.
+- I’m always excited to keep learning new data analysis techniques and tools.
+- My goal is to continue growing as a data analyst and help organizations make meaningful, data-driven improvements.
 
 Feel free to connect with me on LinkedIn or explore my projects to learn more about my work!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1iqW8ql9iaIW1qMeqk-XyjDtS3vjd7P1z/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
