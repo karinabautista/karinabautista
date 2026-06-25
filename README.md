@@ -20,6 +20,4 @@ Some facts about me:
 - I’m always excited to keep learning new data analysis techniques and tools.
 - My goal is to continue growing as a data analyst and help organizations make meaningful, data-driven improvements.
 
-Feel free to connect with me on LinkedIn or explore my projects to learn more about my work!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1iqW8ql9iaIW1qMeqk-XyjDtS3vjd7P1z/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=karinabautista alt=karinabautista /> </p>
+Feel free to connect with me on LinkedIn or explore my projects to learn more about my work!</p><p align='left'> 
